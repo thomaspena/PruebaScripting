@@ -26,3 +26,8 @@ Se utilizó esta funcion para enviar un correo electrónico usando la API de Sen
 Si el código de estado no coincide con el esperado `(codigo_estado_esperado)`, llama a `enviar_correo` para notificar el problema.
 ### Resultados
 Se hizo una solicitud al servidor `https://www.exampless.com/` el cual no responde. Sejecutó el Script y se obtuvo el resultado esperado.
+Comprobación de envío en SendGrid
+![comprobaciónsendgrid](Evidencias/sendgrid.png)}
+
+![comprobaciónsendgrid](Evidencias/correo.png)
+
